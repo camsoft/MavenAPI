@@ -1,0 +1,10 @@
+http://localhost:8085/MavenAPI/api/hello-world
+
+169.254.232.120
+here are your possible servernames:
+
+localhost\MSSQLSERVER
+localhost,1433\MSSQLSERVER
+MyKitchenPC,1433\MSSQLSERVER
+10.242.137.227,1433\MSSQLSERVER
+MyKitchenPC.dir.svc.mykitchencompany.com,1433\MSSQLSERVER
